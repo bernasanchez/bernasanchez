@@ -3,7 +3,7 @@
 My name is Bernardo, I'm from Argentina and I'm a Frontend Developer👨🏻‍💻.
 
 * 💻 I´m a student of ISPC Cordoba and CoderHouse.
-* 👨🏻‍💻 I´m currently learning Backend.
+* 👨🏻‍💻 I´m currently learning MySQl.
 * 💡 I´m constantly training my skills in JavaScript and ReactJs.
 * ⭐I want to collaborate on new projects and keep growing as a professional.  
 ---
